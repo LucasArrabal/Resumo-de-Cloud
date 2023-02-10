@@ -1,4 +1,4 @@
-##Cloud e Infraestrutura:##
+#Cloud e Infraestrutura:
 
 -O que é Cloud ?
 
